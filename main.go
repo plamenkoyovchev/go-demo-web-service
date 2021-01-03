@@ -1,7 +1,17 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/plamenkoyovchev/demo-web-service/models"
+)
 
 func main() {
-	fmt.Println("Web service!")
+	u := models.User{
+		ID:        2,
+		FirstName: "plamen",
+		LastName:  "yovchev",
+	}
+
+	fmt.Println(u)
 }
