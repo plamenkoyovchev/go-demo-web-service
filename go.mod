@@ -1,3 +1,3 @@
-module github.com/plamenkoyovchev/demo-web-service
+module github.com/plamenkoyovchev/go-demo-web-service
 
 go 1.15

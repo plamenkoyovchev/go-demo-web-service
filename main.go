@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/plamenkoyovchev/demo-web-service/models"
+	"github.com/plamenkoyovchev/go-demo-web-service/models"
 )
 
 func main() {
